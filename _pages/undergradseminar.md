@@ -3,6 +3,8 @@ layout: archive
 title: "学部ゼミ"
 permalink: /undergradseminar/
 author_profile: true
+redirect_from:
+  - /undergradseminar
 ---
 
 2021年度（予定，2020年8月時点）
