@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV --- Yuichiro Waki"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Contact Information
+======
+Address: Department of Economics, Aoyama Gakuin University, 4-4-25 Shibuya, Shibuya-ku, Tokyo 150-8366, JAPAN.
+e-mail: ywakiecon[at]gmail.com    (Please replace [at] with @.)
 
 Current Position
 ======
@@ -52,30 +57,24 @@ Research Experience
 
 Publications
 ======
+This part has not been migrated yet from [my google sites](https://sites.google.com/site/yuichirowaki/home).
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
+This part has not been migrated yet from [my google sites](https://sites.google.com/site/yuichirowaki/home).
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* 
 
 Professional Activities
 ======
 * **Referee for**
-  * American Economic Review: Insight; B.E. Journal of Macroeconomics; Economic Inquiry; Economic Journal; Economic Record; Economics Bulletin; European Economic Review; Japan and the World Economy; Japanese Economic Review; Journal of Economic Dynamics and Control; Journal of Economic Theory; Journal of Macroeconomics; Journal of Money, Credit, and Banking; Quantitative Economics; Review of Economic Dynamics.
+  * American Economic Review: Insight; B.E. Journal of Macroeconomics; Economic Inquiry; Economic Journal; Economic Record; Economics Bulletin; European Economic Review; Japan and the World Economy; Japanese Economic Review; Journal of Economic Dynamics and Control; Journal of Economic Theory; Journal of Macroeconomics; Journal of Money, Credit, and Banking; Quantitative Economics; Review of Economic Dynamics; Review of Economic Studies.
 
 * **Seminar and conference presentations**
   * 2019: DSGE conference; the University of Tokyo; Hitotsubashi University; Aoyama Gakuin University. 
@@ -83,7 +82,7 @@ Professional Activities
   * 2017: Hitotsubashi University; the CIGS Conference on Macroeconomic Theory and Policy 2017; the DSGE workshop; the 2017 Workshop of the Australian Macroeconomic Society.
   * 2016: the University of Tokyo; the 2016 Workshop of the Australian Macroeconomic Society (discussant); the Econometric Society Asian Meeting, Kyoto; 17th Annual Macro Conference (discussant), Osaka.
   * 2015: the University of Sydney; the University of Melbourne; the University of Adelaide; DSGE Workshop; Keio University; the University of Tokyo; Hitotsubashi University; Reserve Bank of Australia Quantitative Macroeconomics Workshop; The Second Annual CIGS End of Year Macroeconomics Conference.
-  * 2014: End of Year Macroeconomics Conference at CIGS; DSGE Workshop, Tokyo; 16th Annual Macro Conference; Hitotsubashi University; Econometric Society North American Meeting, Minneapolis; Federal Reserve Bank of Philadelphia; CIGS Conference on Macroeconomic Theory and Policy; QLD Macroeconomics Workshop; Australian National University.
+  * 2014: End of Year Macroeconomics Conference at CIGS; DSGE Workshop, Tokyo; 16th Annual Macro Conference; Hitotsubashi University; Econometric Society North American Meeting, Minneapolis; Federal Reserve Bank of Philadelphia; the CIGS Conference on Macroeconomic Theory and Policy; QLD Macroeconomics Workshop; Australian National University.
   * 2013: University of Auckland Business School; Reserve Bank of New Zealand; Kyoto University ; the University of Tokyo; the University of Melbourne; Australasian Macroeconomics Workshop (discussant).
   * 2012: Workshop on Macroeconomic Dynamics; The Econometric Society Australasian Meeting; SAET conference; Australasian Economic Theory Workshop.
   * 2011: The Econometric Society Australasian Meeting; Workshop on Macroeconomic Dynamics;  Australian National University.
