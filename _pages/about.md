@@ -14,4 +14,4 @@ My research interests include macroeconomics, monetary economics, and computatio
 
 **Contact**: ywakiecon[at]gmail.com    (Please replace [at] with @.)
 
-Migration from the google sites is still on the way. Please visit [https://sites.google.com/site/yuichirowaki/] if files are missing or links are broken. 
+Migration from the google sites is still on the way. Please visit *[my google sites](https://sites.google.com/site/yuichirowaki/)* if files are missing or links are broken. 
