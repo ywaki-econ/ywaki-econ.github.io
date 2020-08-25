@@ -11,8 +11,8 @@ redirect_from:
 
 Contact Information
 ======
-Address: Department of Economics, Aoyama Gakuin University, 4-4-25 Shibuya, Shibuya-ku, Tokyo 150-8366, JAPAN.
-e-mail: ywakiecon[at]gmail.com    (Please replace [at] with @.)
+* Address: Department of Economics, Aoyama Gakuin University, 4-4-25 Shibuya, Shibuya-ku, Tokyo 150-8366, JAPAN.
+* e-mail: ywakiecon[at]gmail.com    (Please replace [at] with @.)
 
 Current Position
 ======
