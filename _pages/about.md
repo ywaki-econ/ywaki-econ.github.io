@@ -14,6 +14,8 @@ My research interests include macroeconomics, monetary economics, and computatio
 
 **Contact**: ywakiecon[at]gmail.com    (Please replace [at] with @.)
 
+Migration from my google sites is still on the way. Please let me know if files are missing or links are broken. You may find them on *[my google sites](https://sites.google.com/site/yuichirowaki/)*.
+
 Publications and Accepted Papers
 ======
 * ["Fiscal forward guidance: A case for selective transparency,"](https://drive.google.com/open?id=1w-WmG7i3Rl5QMfFZLGVC55cmWhgnVTL5) with Ippei Fujiwara. [Online Appendix](https://drive.google.com/open?id=1VwXvU-IluczL8804YzgoXwdshvRZtG0A). Accepted at ***the Journal of Monetary Economics***. [https://doi.org/10.1016/j.jmoneco.2019.10.007](https://doi.org/10.1016/j.jmoneco.2019.10.007), 
@@ -30,5 +32,5 @@ Working Papers
 * ["Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"](https://drive.google.com/file/d/17evPdcjuT6VmEp62ffe09RAEYjjpN_F6/view) with Kenichi Fukushima, 2011. [Extension with hidden actions](https://drive.google.com/file/d/1oP2gcyKmlJiyxwQx91jO4p2A8IUAjWQo/view)
 * ["On the Size of the Fiscal Multiplier When the Nominal Interest Rate is Zero,"](/files/Braun_Waki_2010.pdf) with R. Anton Braun, 2010. [Online Appendix](/files/Braun_Waki_2010_Appendix.pdf).  
 
-Migration from the google sites is still on the way. Please visit *[my google sites](https://sites.google.com/site/yuichirowaki/)* if files are missing or links are broken. 
+
 
