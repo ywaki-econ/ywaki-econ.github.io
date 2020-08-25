@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuichiro Waki"
 title_separator          : "-"
 name                     : &name "Yuichiro Waki"
-description              : &description "Associate Professor of Economics"
+description              : &description "Associate Professor of Economics, Aoyama Gakuin University"
 url                      : https://ywaki-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuichiro Waki"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Associate Professor of Economics, Aoyama Gakuin University"
   location         : "Tokyo"
   employer         : "Aoyama Gakuin University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=efRzRDgAAAAJ"
-  email            :
+  email            : "ywakiecon[atmark]gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "yirwk"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
