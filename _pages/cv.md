@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV (Yuichiro Waki)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -67,15 +67,7 @@ Working Papers
 * ["Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori, the Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.
 * **[NEW DRAFT December 2019]** ["Private News and Monetary Policy,"](https://drive.google.com/open?id=1imbfWwLRf-vUli3l4X6bOHFbWyvFsnJW) with Ippei Fujiwara. [Online Appendix](https://drive.google.com/open?id=1KtM-0B5Sa-RNWYWtfi0Ch_a8bKUk4LGN). [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy). The previous version was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. **Revision requested**.
 * ["Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"](https://drive.google.com/file/d/17evPdcjuT6VmEp62ffe09RAEYjjpN_F6/view) with Kenichi Fukushima, 2011. [Extension with hidden actions](https://drive.google.com/file/d/1oP2gcyKmlJiyxwQx91jO4p2A8IUAjWQo/view)
-* ["On the Size of the Fiscal Multiplier When the Nominal Interest Rate is Zero,"](/files/Braun_Waki_2010.pdf) with R. Anton Braun, 2010. [Online Appendix](/files/Braun_Waki_2010_Appendix.pdf).
-  
-Teaching
-======
-This part has not been migrated yet from [my google sites](https://sites.google.com/site/yuichirowaki/home).
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* ["On the Size of the Fiscal Multiplier When the Nominal Interest Rate is Zero,"](/files/Braun_Waki_2010.pdf) with R. Anton Braun, 2010. [Online Appendix](/files/Braun_Waki_2010_Appendix.pdf).  
 
 Professional Activities
 ======
