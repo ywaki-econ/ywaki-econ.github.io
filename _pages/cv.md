@@ -21,7 +21,8 @@ Current Position
 
 Previous Positions
 ======
-* Lecturer, School of Economics, University of Queensland, July 2011-March 2019 (Confirmed in June 2016).
+* Lecturer, School of Economics, the University of Queensland, July 2011-March 2019 (Confirmed in June 2016).
+* Guest Professor (Global), Department of Economics, Keio University, 2018.
 * Foreign Visiting Faculty, Institute of Economic Research, Hitotsubashi University, October 2016-February 2017.
 
 Education
