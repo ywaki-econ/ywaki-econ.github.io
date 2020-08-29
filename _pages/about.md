@@ -16,9 +16,9 @@ My research interests include macroeconomics, monetary economics, and computatio
 
 What's new
 ======
-* I am migrating from Google Sites. Migration is still on the way. Please let me know if files are missing or links are broken. You may find them on *[my google sites](https://sites.google.com/site/yuichirowaki/)*.
-* A new paper, ["RINCE preferences: a comment,"](/files/Waki_RINCE_comment.pdf) is uploaded! 
-* A revised manuscript of ["Private News and Monetary Policy,"](/files/Fujiwara_Waki_PNMP.pdf) with Ippei Fujiwara, is uploaded. [Online Appendix](/files/Fujiwara_Waki_PNMP_Appendix.pdf). 
+* I believe that now I have migrated everything from *[my Google Sites](https://sites.google.com/site/yuichirowaki/)*. Please let me know if files are missing or links are broken. You may find them on *[my google sites](https://sites.google.com/site/yuichirowaki/)*.
+* [January 2020] A new paper, ["RINCE preferences: a comment,"](/files/Waki_RINCE_comment.pdf) is uploaded! 
+* [December 2019] A revised manuscript of ["Private News and Monetary Policy,"](/files/Fujiwara_Waki_PNMP.pdf) with Ippei Fujiwara, is uploaded. [Online Appendix](/files/Fujiwara_Waki_PNMP_Appendix.pdf). 
 
 
 
