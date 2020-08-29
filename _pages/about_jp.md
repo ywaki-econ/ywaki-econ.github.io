@@ -12,7 +12,7 @@ redirect_from:
 
 研究分野：マクロ経済学，金融・財政政策分析，コンピュテーショナル・エコノミクス
 
-**Contact**: ywakiecon[at]gmail.com    (Please replace [at] with @.)
+**連絡先**: ywakiecon[at]gmail.com    ([at]を@で置き換えてください．)
 
 What's new
 ======
