@@ -4,11 +4,12 @@ permalink: /about_jp/
 title: "脇　雄一郎の日本語ページ"
 excerpt: "About me"
 author_profile: true
+
+---
+
 redirect_from: 
   - /about
   - /about_jp.html
----
-
 青山学院大学経済学部准教授，クイーンズランド大学フェロー
 
 研究分野：マクロ経済学，金融・財政政策分析，コンピュテーショナル・エコノミクス
