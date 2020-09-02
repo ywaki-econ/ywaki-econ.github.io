@@ -1,10 +1,11 @@
 ---
+layout: archive
 permalink: /about_jp/
 title: "脇　雄一郎の日本語ページ"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about_jp/
+  - /about
   - /about_jp.html
 ---
 

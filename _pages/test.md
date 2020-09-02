@@ -1,10 +1,11 @@
 ---
+layout: archive
 permalink: /test/
-title: "Yuichiro Waki's website"
-excerpt: "About me"
+title: "Test"
+excerpt: "Test"
 author_profile: true
 redirect_from:
-  - /test/
+  - /test
   - /test.html
 ---
 
