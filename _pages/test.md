@@ -4,9 +4,6 @@ permalink: /test/
 title: "Test"
 excerpt: "Test"
 author_profile: true
-redirect_from:
-  - /test
-  - /test.html
 ---
 
 
