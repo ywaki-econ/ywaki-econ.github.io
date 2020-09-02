@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /test/
 title: "Yuichiro Waki's website"
 excerpt: "About me"
 author_profile: true
