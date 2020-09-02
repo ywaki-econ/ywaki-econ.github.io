@@ -7,6 +7,9 @@ redirect_from:
   - /research
 ---
 
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="../files/fig_male_emp_and_pop_by_age.embed" height="525" width="100%"></iframe>
+
+
 Publications and Accepted Papers
 ======
 * ["Fiscal forward guidance: A case for selective transparency,"](/files/Fujiwara_Waki_FFG.pdf) with Ippei Fujiwara. [Online Appendix](/files/Fujiwara_Waki_FFG_Appendix.pdf). Accepted at ***the Journal of Monetary Economics***. [https://doi.org/10.1016/j.jmoneco.2019.10.007](https://doi.org/10.1016/j.jmoneco.2019.10.007), 
