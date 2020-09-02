@@ -3,7 +3,8 @@ permalink: /
 title: "Yuichiro Waki's website"
 excerpt: "About me"
 author_profile: true
-
+redirect_from:
+  - /test
 ---
 
 
