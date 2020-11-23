@@ -10,7 +10,7 @@ redirect_from:
 2021年度（予定，2020年8月時点）
 ======
 * テーマは『ネットワークとマクロ経済学』
-    * 前期：Matthew Jackson, The Human Networkなどを輪読．
+    * 前期：Matthew Jackson, The Human Network（邦訳が[『ヒューマン・ネットワーク　人づきあいの経済学』](https://www.amazon.co.jp/dp/B08NDTRNTR/)として早川書房から出版された）などを輪読．
     * 後期：村田剛志『Pythonで学ぶネットワーク分析』などでプログラミングを学ぶ．
 
 2020年度
