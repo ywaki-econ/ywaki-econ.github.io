@@ -9,7 +9,7 @@ redirect_from:
 
 Publications and Accepted Papers
 ======
-* ["Fiscal forward guidance: A case for selective transparency,"](/files/Fujiwara_Waki_FFG.pdf) with Ippei Fujiwara. [Online Appendix](/files/Fujiwara_Waki_FFG_Appendix.pdf). Accepted at ***the Journal of Monetary Economics***. [https://doi.org/10.1016/j.jmoneco.2019.10.007](https://doi.org/10.1016/j.jmoneco.2019.10.007), 
+* ["Fiscal forward guidance: A case for selective transparency,"](/files/Fujiwara_Waki_FFG.pdf) with Ippei Fujiwara. [Online Appendix](/files/Fujiwara_Waki_FFG_Appendix.pdf). Accepted at ***the Journal of Monetary Economics***. [Free shared link for the final version: valid until January 16, 2021](https://authors.elsevier.com/c/1c8jN15DWHjM8S), <!--- [https://doi.org/10.1016/j.jmoneco.2019.10.007](https://doi.org/10.1016/j.jmoneco.2019.10.007), --->
 * ["The Optimal Degree of Monetary-Discretion in a New Keynesian Model with Private Information,"](https://econtheory.org/ojs/index.php/te/article/view/20181319) with Richard Dennis and Ippei Fujiwara, 2018, ***Theoretical Economics***, Volume 13, Number 3, pages 1319–1368. 
 * ["Some Unpleasant Properties of Loglinearized Solutions When the Nominal Rate is Zero,"](https://doi.org/10.1016/j.jmoneco.2016.10.012) with Lena Mareen Boneva and R. Anton Braun, 2016, ***the Journal of Monetary Economics***, Volume 84, pages 216–232. [Online Appendix](/files/Boneva_Braun_Waki_2016_jme_append.pdf).
 * ["A Polyhedral Approximation Approach to Concave Numerical Dynamic Programming,"](https://doi.org/10.1016/j.jedc.2013.06.001) with Kenichi Fukushima, 2013, ***Journal of Economic Dynamics and Control***, Volume 37, Issue 11, pages 2322–2335. 
