@@ -56,7 +56,7 @@ Research Experience
 
 Publications and Accepted Papers
 ======
-* ["Fiscal forward guidance: A case for selective transparency,"](https://drive.google.com/open?id=1w-WmG7i3Rl5QMfFZLGVC55cmWhgnVTL5) with Ippei Fujiwara. [Online Appendix](https://drive.google.com/open?id=1VwXvU-IluczL8804YzgoXwdshvRZtG0A). Accepted at ***the Journal of Monetary Economics***. [https://doi.org/10.1016/j.jmoneco.2019.10.007](https://doi.org/10.1016/j.jmoneco.2019.10.007), 
+* ["Fiscal forward guidance: A case for selective transparency,"](https://doi.org/10.1016/j.jmoneco.2019.10.007) with Ippei Fujiwara, 2020,  ***the Journal of Monetary Economics***, Volume 116, pages 236-248. [Online Appendix](/files/Fujiwara_Waki_FFG_Appendix.pdf).
 * ["The Optimal Degree of Monetary-Discretion in a New Keynesian Model with Private Information,"](https://econtheory.org/ojs/index.php/te/article/view/20181319) with Richard Dennis and Ippei Fujiwara, 2018, ***Theoretical Economics***, Volume 13, Number 3, pages 1319–1368. 
 * ["Some Unpleasant Properties of Loglinearized Solutions When the Nominal Rate is Zero,"](https://doi.org/10.1016/j.jmoneco.2016.10.012) with Lena Mareen Boneva and R. Anton Braun, 2016, ***the Journal of Monetary Economics***, Volume 84, pages 216–232. [Online Appendix](/files/Boneva_Braun_Waki_2016_jme_append.pdf).
 * ["A Polyhedral Approximation Approach to Concave Numerical Dynamic Programming,"](https://doi.org/10.1016/j.jedc.2013.06.001) with Kenichi Fukushima, 2013, ***Journal of Economic Dynamics and Control***, Volume 37, Issue 11, pages 2322–2335. 
