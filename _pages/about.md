@@ -17,6 +17,7 @@ My research interests include macroeconomics, monetary economics, and computatio
 What's new
 ======
 * I believe that now I have migrated everything from *[my Google Sites](https://sites.google.com/site/yuichirowaki/)*. Please let me know if files are missing or links are broken. You may find them on *[my google sites](https://sites.google.com/site/yuichirowaki/)*.
+* [December 2020] "Fiscal forward guidance: A case for selective transparency" (with Ippei Fujiwara) is published in Journal of Monetary Economics. 
 * [January 2020] A new paper, ["RINCE preferences: a comment,"](/files/Waki_RINCE_comment.pdf) is uploaded! 
 * [December 2019] A revised manuscript of ["Private News and Monetary Policy,"](/files/Fujiwara_Waki_PNMP.pdf) with Ippei Fujiwara, is uploaded. [Online Appendix](/files/Fujiwara_Waki_PNMP_Appendix.pdf). 
 
