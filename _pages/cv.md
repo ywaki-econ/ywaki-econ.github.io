@@ -44,7 +44,7 @@ Grants
 
 Teaching Experience
 ======
-* 2019-present, Instructor, Department of Economics, Aoyama Gakuin University, Tokyo, Japan. Taught Macroeconomics I&II, Introduction to English in Economics, Economic Dynamics I&II, Applied Macroeconomics, and Undergraduate seminar.
+* 2019-present, Instructor, Department of Economics, Aoyama Gakuin University, Tokyo, Japan. Taught Principle of Macroeconomics, Introduction to English in Economics, Economic Dynamics, Applied Macroeconomics, and Undergraduate seminar.
 * 2012-2018, Course Coordinator and Instructor, School of Economics, the University of Queensland, Brisbane, Queensland, Australia. Taught Advanced Macroeconomics (3rd year undergraduate, 2012-), Macroeconomics A (Honours, 2015-), Macroeconomics B (Honours, 2012-2014), and Computational Methods in Economics (Honours and Ph.D, 2017-2018).
 * 2007, Instructor, Department of Economics, the University of Minnesota, Minneapolis, Minnesota, The U.S. Taught Numerical Methods for Ph.D. Students in Economics.
 * 2004-2005, Teaching assistant, Graduate School of Economics, the University of Tokyo, Tokyo, Japan. Led recitation sections for graduate level Macroeconomics.
