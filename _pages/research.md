@@ -37,7 +37,7 @@ Working Papers
   *  The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.
 *  ["Private News and Monetary Policy,"](/files/Fujiwara_Waki_PNMP.pdf) with Ippei Fujiwara **[NEW DRAFT December 2019]**
   * [Online Appendix](/files/Fujiwara_Waki_PNMP_Appendix.pdf) 
-  * [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy). 
+  * [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy)
   * The previous version was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
   * **Revision requested by Review of Economic Dynamics**.
 * ["Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"](/files/Fukushima_Waki.pdf) with Kenichi Fukushima, 2011. 
