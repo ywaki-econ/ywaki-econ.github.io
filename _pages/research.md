@@ -33,10 +33,10 @@ redirect_from:
 * ["Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
   *  The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.
 *  ["Private News and Monetary Policy,"](/files/Fujiwara_Waki_PNMP.pdf) with Ippei Fujiwara **[NEW DRAFT December 2019]** 
-* [Online Appendix](/files/Fujiwara_Waki_PNMP_Appendix.pdf) 
+  * **Revision requested by Review of Economic Dynamics**.
+  * [Online Appendix](/files/Fujiwara_Waki_PNMP_Appendix.pdf) 
   * [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy)
   * The previous version was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
-  * **Revision requested by Review of Economic Dynamics**.
 * ["Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"](/files/Fukushima_Waki.pdf) with Kenichi Fukushima, 2011. 
   * [Extension with hidden actions](/files/Fukushima_Waki_extension_hidden_actions.pdf)
 * ["On the Size of the Fiscal Multiplier When the Nominal Interest Rate is Zero,"](/files/Braun_Waki_2010.pdf) with R. Anton Braun, 2010. 
