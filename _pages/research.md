@@ -7,8 +7,12 @@ redirect_from:
   - /research
 ---
 
+---
+======
+
 Publications and Accepted Papers
 ======
+
 * ["Fiscal forward guidance: A case for selective transparency,"](https://doi.org/10.1016/j.jmoneco.2019.10.007) with Ippei Fujiwara, 2020.
    * Published in ***the Journal of Monetary Economics***, Volume 116, pages 236-248. 
    * [Online Appendix](/files/Fujiwara_Waki_FFG_Appendix.pdf)
@@ -23,8 +27,11 @@ Publications and Accepted Papers
 * ["Monetary Policy during Japan's Lost Decade,"](https://doi.org/10.1111/j.1468-5876.2006.00371.x) with R. Anton Braun, 2006.
   * Published in ***the Japanese Economic Review***, Vol. 57. No. 2, pp.324-344.
 
+---
+
 Working Papers
 ======
+
 * ["RINCE preferences: a comment."](/files/Waki_RINCE_comment.pdf) **[NEW! January 2020]** 
 * ["Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
   *  The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.
