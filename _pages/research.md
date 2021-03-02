@@ -31,11 +31,8 @@ redirect_from:
 
 * ["RINCE preferences: a comment."](/files/Waki_RINCE_comment.pdf) **[NEW! January 2020]** 
 * ["Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
-  
-  * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.
-  
-    
-*  ["Private News and Monetary Policy,"](/files/Fujiwara_Waki_PNMP.pdf) with Ippei Fujiwara **[NEW DRAFT December 2019]** 
+  * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
+* ["Private News and Monetary Policy,"](/files/Fujiwara_Waki_PNMP.pdf) with Ippei Fujiwara **[NEW DRAFT December 2019]** 
   *  Revision requested by **Review of Economic Dynamics**.
   * [Online Appendix](/files/Fujiwara_Waki_PNMP_Appendix.pdf) 
   * [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy)
