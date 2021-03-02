@@ -7,8 +7,8 @@ redirect_from:
   - /research
 ---
 
----
-======
+
+<hr>
 
 Publications and Accepted Papers
 ======
@@ -27,7 +27,7 @@ Publications and Accepted Papers
 * ["Monetary Policy during Japan's Lost Decade,"](https://doi.org/10.1111/j.1468-5876.2006.00371.x) with R. Anton Braun, 2006.
   * Published in ***the Japanese Economic Review***, Vol. 57. No. 2, pp.324-344.
 
----
+<hr>
 
 Working Papers
 ======
