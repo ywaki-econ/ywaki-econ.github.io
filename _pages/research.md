@@ -9,8 +9,7 @@ redirect_from:
 
 <hr>
 
-Publications and Accepted Papers
-======
+## Publications and Accepted Papers
 
 * ["Fiscal forward guidance: A case for selective transparency,"](https://doi.org/10.1016/j.jmoneco.2019.10.007) with Ippei Fujiwara, 2020.
    * Published in ***the Journal of Monetary Economics***, Volume 116, pages 236-248. 
@@ -28,13 +27,12 @@ Publications and Accepted Papers
 
 <hr>
 
-Working Papers
-======
+##Working Papers
 
 * ["RINCE preferences: a comment."](/files/Waki_RINCE_comment.pdf) **[NEW! January 2020]** 
 * ["Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
   *  The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.
-*  ["Private News and Monetary Policy,"](/files/Fujiwara_Waki_PNMP.pdf) with Ippei Fujiwara **[NEW DRAFT December 2019]**
+*  ["Private News and Monetary Policy,"](/files/Fujiwara_Waki_PNMP.pdf) with Ippei Fujiwara **[NEW DRAFT December 2019]** 
   * [Online Appendix](/files/Fujiwara_Waki_PNMP_Appendix.pdf) 
   * [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy)
   * The previous version was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
