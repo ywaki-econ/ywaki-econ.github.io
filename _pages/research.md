@@ -7,7 +7,6 @@ redirect_from:
   - /research
 ---
 
-
 <hr>
 
 Publications and Accepted Papers
