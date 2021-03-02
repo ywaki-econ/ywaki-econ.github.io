@@ -27,7 +27,7 @@ redirect_from:
 
 <hr>
 
-##Working Papers
+## Working Papers
 
 * ["RINCE preferences: a comment."](/files/Waki_RINCE_comment.pdf) **[NEW! January 2020]** 
 * ["Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
