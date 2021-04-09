@@ -72,7 +72,7 @@ Working Papers
 * [**"The Delphic Forward Guidance Puzzle in New Keynesian Models"**](/files/Fujiwara_Waki_DFGP_withOnlineAppendix.pdf) with Ippei Fujiwara **[NEW DRAFT April 2021]** 
   *  Revision requested by **Review of Economic Dynamics**.
   * [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf).Also included at the end of the above file.   
-  * This paper was previously titled as "Private News and Monetary Policy" and was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
+  * This paper was previously titled "Private News and Monetary Policy" and was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
   * [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy)
 * [**"Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"**](/files/Fukushima_Waki.pdf) with Kenichi Fukushima, 2011. 
   * [Extension with hidden actions](/files/Fukushima_Waki_extension_hidden_actions.pdf)
