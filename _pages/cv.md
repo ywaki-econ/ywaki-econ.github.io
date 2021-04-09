@@ -69,7 +69,7 @@ Working Papers
 * [**"RINCE preferences: a comment"**](/files/Waki_RINCE_comment.pdf) **[NEW! January 2020]** 
 * [**"Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"**](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
   * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
-* [**"The Delphic Forward Guidance Puzzle in New Keynesian Models"](/files/Fujiwara_Waki_DFGPwithOnlineAppendix) with Ippei Fujiwara **[NEW DRAFT April 2021]** 
+* [**"The Delphic Forward Guidance Puzzle in New Keynesian Models"**](/files/Fujiwara_Waki_DFGPwithOnlineAppendix) with Ippei Fujiwara **[NEW DRAFT April 2021]** 
   *  Revision requested by **Review of Economic Dynamics**.
   * [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf.pdf) 
   * This paper was previously titled as "Private News and Monetary Policy" and was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
