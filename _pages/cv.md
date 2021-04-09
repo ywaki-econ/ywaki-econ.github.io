@@ -66,7 +66,7 @@ Publications and Accepted Papers
 Working Papers
 ======
 
-* ["RINCE preferences: a comment"](/files/Waki_RINCE_comment.pdf) **[NEW! January 2020]** 
+* ["RINCE preferences: a comment"](/files/Waki_RINCE_comment.pdf)
 * ["Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
   * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
 * ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](/files/Fujiwara_Waki_DFGP_withOnlineAppendix.pdf) with Ippei Fujiwara **[NEW DRAFT April 2021]** 
