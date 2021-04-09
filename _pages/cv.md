@@ -33,6 +33,7 @@ Education
 
 Honors and Awards
 ======
+* 2017 Distinguished Teaching Awards (for Medium Undergraduate), School of Economics, the University of Queensland.
 * 2015, Distinguished Teaching Awards (for Medium Undergraduate and Small Undergraduate), School of Economics, the University of Queensland.
 * 2005-2007, Japan-IMF Scholarship for Advanced Studies.
 
@@ -64,11 +65,19 @@ Publications and Accepted Papers
 
 Working Papers
 ======
-* **[NEW! January 2020]** ["RINCE preferences: a comment."](https://drive.google.com/open?id=1sRhGy1sZ9nHjJrLQmck5P00toiwooAmU)
-* ["Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori, the Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.
-* **[NEW DRAFT December 2019]** ["Private News and Monetary Policy,"](https://drive.google.com/open?id=1imbfWwLRf-vUli3l4X6bOHFbWyvFsnJW) with Ippei Fujiwara. [Online Appendix](https://drive.google.com/open?id=1KtM-0B5Sa-RNWYWtfi0Ch_a8bKUk4LGN). [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy). The previous version was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. **Revision requested**.
-* ["Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"](https://drive.google.com/file/d/17evPdcjuT6VmEp62ffe09RAEYjjpN_F6/view) with Kenichi Fukushima, 2011. [Extension with hidden actions](https://drive.google.com/file/d/1oP2gcyKmlJiyxwQx91jO4p2A8IUAjWQo/view)
-* ["On the Size of the Fiscal Multiplier When the Nominal Interest Rate is Zero,"](/files/Braun_Waki_2010.pdf) with R. Anton Braun, 2010. [Online Appendix](/files/Braun_Waki_2010_Appendix.pdf).  
+
+* [**"RINCE preferences: a comment"**](/files/Waki_RINCE_comment.pdf) **[NEW! January 2020]** 
+* [**"Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"**](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
+  * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
+* [**"The Delphic Forward Guidance Puzzle in New Keynesian Models"](/files/Fujiwara_Waki_DFGPwithOnlineAppendix) with Ippei Fujiwara **[NEW DRAFT April 2021]** 
+  *  Revision requested by **Review of Economic Dynamics**.
+  * [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf.pdf) 
+  * This paper was previously titled as "Private News and Monetary Policy" and was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
+  * [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy)
+* [**"Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"**](/files/Fukushima_Waki.pdf) with Kenichi Fukushima, 2011. 
+  * [Extension with hidden actions](/files/Fukushima_Waki_extension_hidden_actions.pdf)
+* [**"On the Size of the Fiscal Multiplier When the Nominal Interest Rate is Zero,"**](/files/Braun_Waki_2010.pdf) with R. Anton Braun, 2010.   
+  * [Online Appendix](/files/Braun_Waki_2010_Appendix.pdf). 
 
 Professional Activities
 ======
