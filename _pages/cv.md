@@ -17,13 +17,15 @@ Contact Information
 Current Position
 ======
 * Associate Professor, Department of Economics, Aoyama Gakuin University, April 2019-present.
-* Honorary Fellow, School of Economics, the University of Queensland, April 2019-present.
+* Honorary Senior Fellow, School of Economics, the University of Queensland, April 2021-present.
 
 Previous Positions
 ======
+* Honorary Fellow, School of Economics, the University of Queensland, April 2019-March 2021.
 * Lecturer, School of Economics, the University of Queensland, July 2011-March 2019 (Confirmed in June 2016).
 * Guest Professor (Global), Department of Economics, Keio University, 2018.
 * Foreign Visiting Faculty, Institute of Economic Research, Hitotsubashi University, October 2016-February 2017.
+
 
 Education
 ======
@@ -35,7 +37,7 @@ Honors and Awards
 ======
 * 2017 Distinguished Teaching Awards (for Medium Undergraduate), School of Economics, the University of Queensland.
 * 2015, Distinguished Teaching Awards (for Medium Undergraduate and Small Undergraduate), School of Economics, the University of Queensland.
-* 2005-2007, Japan-IMF Scholarship for Advanced Studies.
+* 2005-2007, Japan-IMF Scholarship for Advanced Studies. 
 
 Grants
 ======
@@ -78,6 +80,7 @@ Working Papers
   * [Extension with hidden actions](/files/Fukushima_Waki_extension_hidden_actions.pdf)
 * ["On the Size of the Fiscal Multiplier When the Nominal Interest Rate is Zero,"](/files/Braun_Waki_2010.pdf) with R. Anton Braun, 2010.   
   * [Online Appendix](/files/Braun_Waki_2010_Appendix.pdf). 
+ 
 
 Professional Activities
 ======
@@ -85,6 +88,7 @@ Professional Activities
   * American Economic Review: Insight; B.E. Journal of Macroeconomics; Economic Inquiry; Economic Journal; Economic Record; Economics Bulletin; European Economic Review; Japan and the World Economy; Japanese Economic Review; Journal of Economic Dynamics and Control; Journal of Economic Theory; Journal of Macroeconomics; Journal of Money, Credit, and Banking; Quantitative Economics; Review of Economic Dynamics; Review of Economic Studies.
 
 * **Seminar and conference presentations**
+  * 2021: Annual meeting of the Central Bank Research Association.
   * 2019: DSGE conference; the University of Tokyo; Hitotsubashi University; Aoyama Gakuin University. 
   * 2018: Pan-Pacific Conference in Economic Research.
   * 2017: Hitotsubashi University; the CIGS Conference on Macroeconomic Theory and Policy 2017; the DSGE workshop; the 2017 Workshop of the Australian Macroeconomic Society.

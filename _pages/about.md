@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at Department of Economics, Aoyama Gakuin University, and a Honorary Fellow at School of Economics, the University of Queensland. 
+I am an Associate Professor at Department of Economics, Aoyama Gakuin University, and a Honorary Senior Fellow at School of Economics, the University of Queensland. 
 
 My research interests include macroeconomics, monetary economics, and computational economics. 
 
