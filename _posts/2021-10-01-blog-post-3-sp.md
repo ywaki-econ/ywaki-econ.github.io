@@ -1,0 +1,37 @@
+---
+classes: wide
+title:  '日本のGDPデータ（スマートフォン用）'
+date: 2021-10-01
+permalink: /posts/2021/10/blog-post-3-sp/
+author_profile: false
+sitemap: false
+tags: 
+ - Japanese data
+---
+
+
+2021年マクロ経済学の第5回講義で用いた，インタラクティブ・グラフを以下に示す．
+
+**このページのグラフは，スマートフォン用に小さめに作成されている．パソコンやタブレットから見る場合は，[こちらのページ](https://ywaki-econ.github.io/posts/2021/10/blog-post-3/)を用いること．**
+
+
+データはすべて，内閣府の国民経済計算である．最初の2つは[統計表（国民経済計算年次推計）](https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files/files_kakuhou.html)から，それ以降は，[統計表一覧（2021年4-6月期 2次速報値）](https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/files/2021/qe212_2/gdemenuja.html)から作成されている．
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/files/fig-2021-10-01-blog-post-3-sp/fig_ngdp_long.html"  height="600" width="700"></iframe>
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/files/fig-2021-10-01-blog-post-3-sp/fig_rgdp_growth_long.html" height="600"  width="1050"></iframe>
+
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/files/fig-2021-10-01-blog-post-3-sp/fig_rgdp_original.html" height="600"  width="1050"></iframe>
+
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/files/fig-2021-10-01-blog-post-3-sp/fig_rgdp_smoothed.html" height="600"  width="1050"></iframe>
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/files/fig-2021-10-01-blog-post-3-sp/fig_rgdp_smoothed_history.html" height="600"  width="1050"></iframe>
+
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/files/fig-2021-10-01-blog-post-3-sp/fig_rgdp_growth_history.html" height="600"  width="1050"></iframe>
+
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="/files/fig-2021-10-01-blog-post-3-sp/fig_rgdp_growth_component.html" height="600"  width="1050"></iframe>
+
