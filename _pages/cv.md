@@ -59,6 +59,9 @@ Research Experience
 
 Publications and Accepted Papers
 ======
+* ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](/files/Fujiwara_Waki_DFGP.pdf) with Ippei Fujiwara, accepted at ***Review of Economic Dynamics***. [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf).
+  * This paper was previously titled "Private News and Monetary Policy" and was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
+  * [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy)
 * ["Fiscal forward guidance: A case for selective transparency,"](https://doi.org/10.1016/j.jmoneco.2019.10.007) with Ippei Fujiwara, 2020,  ***the Journal of Monetary Economics***, Volume 116, pages 236-248. [Online Appendix](/files/Fujiwara_Waki_FFG_Appendix.pdf).
 * ["The Optimal Degree of Monetary-Discretion in a New Keynesian Model with Private Information,"](https://econtheory.org/ojs/index.php/te/article/view/20181319) with Richard Dennis and Ippei Fujiwara, 2018, ***Theoretical Economics***, Volume 13, Number 3, pages 1319–1368. 
 * ["Some Unpleasant Properties of Loglinearized Solutions When the Nominal Rate is Zero,"](https://doi.org/10.1016/j.jmoneco.2016.10.012) with Lena Mareen Boneva and R. Anton Braun, 2016, ***the Journal of Monetary Economics***, Volume 84, pages 216–232. [Online Appendix](/files/Boneva_Braun_Waki_2016_jme_append.pdf).
@@ -71,11 +74,6 @@ Working Papers
 * ["RINCE preferences: a comment"](/files/Waki_RINCE_comment.pdf)
 * ["Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
   * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
-* ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](/files/Fujiwara_Waki_DFGP_withOnlineAppendix.pdf) with Ippei Fujiwara **[NEW DRAFT April 2021]** 
-  *  Revision requested by **Review of Economic Dynamics**.
-  * [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf).Also included at the end of the above file.   
-  * This paper was previously titled "Private News and Monetary Policy" and was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
-  * [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy)
 * ["Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"](/files/Fukushima_Waki.pdf) with Kenichi Fukushima, 2011. 
   * [Extension with hidden actions](/files/Fukushima_Waki_extension_hidden_actions.pdf)
 * ["On the Size of the Fiscal Multiplier When the Nominal Interest Rate is Zero,"](/files/Braun_Waki_2010.pdf) with R. Anton Braun, 2010.   
