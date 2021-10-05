@@ -15,10 +15,9 @@ author_profile: true
 
 What's new
 ======
-* [April 2021] ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](/files/Fujiwara_Waki_DFGP_withOnlineAppendix.pdf) の改訂版（以前のタイトルは
-"Private News and Monetary Policy"）をアップロードしました．[Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf). 
-* [December 2020] "Fiscal forward guidance: A case for selective transparency" (with Ippei Fujiwara) is published in Journal of Monetary Economics. 
-* [January 2020]  ["RINCE preferences: a comment,"](/files/Waki_RINCE_comment.pdf) をアップロードしました．
+* [October 2021] ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](/files/Fujiwara_Waki_DFGP.pdf) (with Ippei Fujiwara)がReview of Economic Dynamics誌に受理されました． [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf)
+* [December 2020] "Fiscal forward guidance: A case for selective transparency" (with Ippei Fujiwara)がJournal of Monetary Economics誌に掲載されました．
+* [January 2020]  ["RINCE preferences: a comment"](/files/Waki_RINCE_comment.pdf) をアップロードしました．
 
 
 

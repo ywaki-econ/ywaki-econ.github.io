@@ -10,7 +10,7 @@ redirect_from:
 <hr>
 
 ## Publications and Accepted Papers
-* [**"The Delphic Forward Guidance Puzzle in New Keynesian Models"**](/files/Fujiwara_Waki_DFGP.pdf) with Ippei Fujiwara
+* [**"The Delphic Forward Guidance Puzzle in New Keynesian Models"**](/files/Fujiwara_Waki_DFGP.pdf) with Ippei Fujiwara, October 2021.
   * Accepted at ***Review of Economic Dynamics***. 
   * [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf).
   * This paper was previously titled "Private News and Monetary Policy" and was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
