@@ -33,7 +33,7 @@ redirect_from:
 
 ## Working Papers
 
-* [**"RINCE preferences: a comment"**](/files/Waki_RINCE_comment.pdf) 
+* ["On the (non-)linearity of the value and the policy functions under RINCE preferences."](/files/Waki_RINCE.pdf) **New draft (October 2021)**
 * [**"Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"**](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
   * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
 * [**"Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"**](/files/Fukushima_Waki.pdf) with Kenichi Fukushima, 2011. 

@@ -16,10 +16,11 @@ My research interests include macroeconomics, monetary economics, and computatio
 
 What's new
 ======
+* [October 2021] A new paper, ["On the (non-)linearity of the value and the policy functions under RINCE preferences,"](/files/Waki_RINCE.pdf) is uploaded.
 * [October 2021] ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](/files/Fujiwara_Waki_DFGP.pdf) with Ippei Fujiwara is now accepted at Review of Economic Dynamics. [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf)
 * [April 2021] A revised manuscript of is uploaded. This paper was previously titled "Private News and Monetary Policy."
 * [December 2020] "Fiscal forward guidance: A case for selective transparency" (with Ippei Fujiwara) is published in Journal of Monetary Economics. 
-* [January 2020] A new paper, ["RINCE preferences: a comment,"](/files/Waki_RINCE_comment.pdf) is uploaded.
+
 
 
 
