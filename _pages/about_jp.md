@@ -16,7 +16,7 @@ author_profile: true
 What's new
 ======
 * [October 2021] ["On the (non-)linearity of the value and the policy functions under the RINCE preferences,"](/files/Waki_RINCE.pdf) をアップロードしました．
-* [October 2021] ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](/files/Fujiwara_Waki_DFGP.pdf) (with Ippei Fujiwara)がReview of Economic Dynamics誌に受理されました． [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf)
+* [October 2021] ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](https://www.sciencedirect.com/science/article/pii/S1094202521000752?dgcid=author) (with Ippei Fujiwara)がReview of Economic Dynamics誌に受理されました． [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf)
 * [December 2020] "Fiscal forward guidance: A case for selective transparency" (with Ippei Fujiwara)がJournal of Monetary Economics誌に掲載されました．
 
 

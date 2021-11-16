@@ -10,9 +10,10 @@ redirect_from:
 <hr>
 
 ## Publications and Accepted Papers
-* [**"The Delphic Forward Guidance Puzzle in New Keynesian Models"**](/files/Fujiwara_Waki_DFGP.pdf) with Ippei Fujiwara, October 2021.
+* [**"The Delphic Forward Guidance Puzzle in New Keynesian Models"**](https://www.sciencedirect.com/science/article/pii/S1094202521000752?dgcid=author) with Ippei Fujiwara, October 2021.
   * Accepted at ***Review of Economic Dynamics***. 
   * [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf).
+  * [Replication codes](https://ideas.repec.org/c/red/ccodes/19-50.html)
   * This paper was previously titled "Private News and Monetary Policy" and was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
   * [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy)
 * [**"Fiscal forward guidance: A case for selective transparency,"**](https://doi.org/10.1016/j.jmoneco.2019.10.007) with Ippei Fujiwara, 2020.
