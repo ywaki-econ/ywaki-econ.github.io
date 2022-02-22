@@ -59,6 +59,7 @@ Research Experience
 
 Publications and Accepted Papers
 ======
+* "A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences." Conditionally accepted at ***Journal of Macroeocnomics***. Final draft coming soon.
 * ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](https://www.sciencedirect.com/science/article/pii/S1094202521000752?dgcid=author) with Ippei Fujiwara, accepted at ***Review of Economic Dynamics***. [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf).
   * This paper was previously titled "Private News and Monetary Policy" and was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
   * [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy)
@@ -71,7 +72,6 @@ Publications and Accepted Papers
 Working Papers
 ======
 
-* ["On the (non-)linearity of the value and the policy functions under the RINCE preferences."](/files/Waki_RINCE.pdf) **New draft (October 2021)**
 * ["Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
   * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
 * ["Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"](/files/Fukushima_Waki.pdf) with Kenichi Fukushima, 2011. 
@@ -83,7 +83,7 @@ Working Papers
 Professional Activities
 ======
 * **Referee for**
-  * American Economic Review: Insight; B.E. Journal of Macroeconomics; Economic Inquiry; Economic Journal; Economic Record; Economics Bulletin; European Economic Review; Japan and the World Economy; Japanese Economic Review; Journal of Economic Dynamics and Control; Journal of Economic Theory; Journal of Macroeconomics; Journal of Money, Credit, and Banking; Quantitative Economics; Review of Economic Dynamics; Review of Economic Studies.
+  * American Economic Review: Insight; B.E. Journal of Macroeconomics; Economic Inquiry; Economic Journal; Economic Record; Economics Bulletin; European Economic Review; Japan and the World Economy; Japanese Economic Review; Journal of Economic Dynamics and Control; Journal of Economic Theory; Journal of Macroeconomics; Journal of Money, Credit, and Banking; Quantitative Economics; Review of Economic Dynamics; Review of Economic Studies. 
 
 * **Seminar and conference presentations**
   * 2021: Annual meeting of the Central Bank Research Association.
