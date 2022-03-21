@@ -15,7 +15,7 @@ author_profile: true
 
 What's new
 ======
-* [February 2022] "A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences"がJournal of Macroeconomics誌に条件付き受理されました．
+* [March 2022] "A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences"がJournal of Macroeconomics誌に受理されました．
 * [October 2021] ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](https://www.sciencedirect.com/science/article/pii/S1094202521000752?dgcid=author) (with Ippei Fujiwara)がReview of Economic Dynamics誌に受理されました． [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf)
 * [December 2020] "Fiscal forward guidance: A case for selective transparency" (with Ippei Fujiwara)がJournal of Monetary Economics誌に掲載されました．
 
