@@ -10,7 +10,7 @@ redirect_from:
 <hr>
 
 ## Publications and Accepted Papers
-* [**"A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences."**](/files/Waki_RINCE.pdf), March 2022.
+* [**"A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"**](/files/Waki_RINCE.pdf) March 2022.
   * Accepted at ***Journal of Macroeconomics***. 
 * [**"The Delphic Forward Guidance Puzzle in New Keynesian Models"**](https://www.sciencedirect.com/science/article/pii/S1094202521000752?dgcid=author) with Ippei Fujiwara, October 2021.
   * Accepted at ***Review of Economic Dynamics***. 
