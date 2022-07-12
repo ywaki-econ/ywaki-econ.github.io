@@ -10,8 +10,8 @@ redirect_from:
 <hr>
 
 ## Publications and Accepted Papers
-* [**"A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"**](/files/Waki_RINCE.pdf) March 2022.
-  * Accepted at ***Journal of Macroeconomics***. 
+* [**"A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"**](https://www.sciencedirect.com/science/article/abs/pii/S0164070422000222) June 2022.
+  * Published in ***Journal of Macroeconomics***, Volume 72. 
 * [**"The Delphic Forward Guidance Puzzle in New Keynesian Models"**](https://www.sciencedirect.com/science/article/pii/S1094202521000752?dgcid=author) with Ippei Fujiwara, October 2021.
   * Accepted at ***Review of Economic Dynamics***. 
   * [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf).
@@ -35,6 +35,7 @@ redirect_from:
 <hr>
 
 ## Working Papers
+* "Commitment vs. Flexibility in New Keynesian Models," draft coming soon.
 * [**"Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"**](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
   * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
 * [**"Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"**](/files/Fukushima_Waki.pdf) with Kenichi Fukushima, 2011. 

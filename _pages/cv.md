@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV --- YUICHIRO WAKI"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -59,7 +59,7 @@ Research Experience
 
 Publications and Accepted Papers
 ======
-* ["A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"](/files/Waki_RINCE.pdf) accepted at ***Journal of Macroeconomics***. 
+* [**"A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"**](https://www.sciencedirect.com/science/article/abs/pii/S0164070422000222), ***Journal of Macroeconomics***, Volume 72. 
 * ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](https://www.sciencedirect.com/science/article/pii/S1094202521000752?dgcid=author) with Ippei Fujiwara, accepted at ***Review of Economic Dynamics***. [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf).
   * This paper was previously titled "Private News and Monetary Policy" and was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
   * [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy)
@@ -86,6 +86,7 @@ Professional Activities
   * American Economic Review: Insight; B.E. Journal of Macroeconomics; Economic Inquiry; Economic Journal; Economic Record; Economics Bulletin; European Economic Review; Japan and the World Economy; Japanese Economic Review; Journal of Economic Dynamics and Control; Journal of Economic Theory; Journal of Macroeconomics; Journal of Money, Credit, and Banking; Quantitative Economics; Review of Economic Dynamics; Review of Economic Studies. 
 
 * **Seminar and conference presentations**
+  * 2022: The Econometric Society Australasian Meeting, The Asian Meeting of the Econometric Society in East and South-East Asia (scheduled).
   * 2021: Annual meeting of the Central Bank Research Association.
   * 2019: DSGE conference; the University of Tokyo; Hitotsubashi University; Aoyama Gakuin University. 
   * 2018: Pan-Pacific Conference in Economic Research.
