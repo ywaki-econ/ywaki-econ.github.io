@@ -10,11 +10,11 @@ redirect_from:
 <hr>
 
 ## Publications and Accepted Papers
-* [**"A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"**](https://www.sciencedirect.com/science/article/abs/pii/S0164070422000222) June 2022.
+* [**"A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"**](https://www.sciencedirect.com/science/article/abs/pii/S0164070422000222) 2022.
   * Published in ***Journal of Macroeconomics***, Volume 72. 
-* [**"The Delphic Forward Guidance Puzzle in New Keynesian Models"**](https://www.sciencedirect.com/science/article/pii/S1094202521000752?dgcid=author) with Ippei Fujiwara, October 2021.
-  * Accepted at ***Review of Economic Dynamics***. 
-  * [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf).
+* [**"The Delphic Forward Guidance Puzzle in New Keynesian Models"**](https://www.sciencedirect.com/science/article/pii/S1094202521000752?dgcid=author) with Ippei Fujiwara, 2022.
+  * Published in ***Review of Economic Dynamics***, Volume 46, Pages 280-301. 
+  * [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf)
   * [Replication codes](https://ideas.repec.org/c/red/ccodes/19-50.html)
   * This paper was previously titled "Private News and Monetary Policy" and was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
   * [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy)
