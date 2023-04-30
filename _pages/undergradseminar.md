@@ -7,6 +7,13 @@ redirect_from:
   - /undergradseminar
 ---
 
+2023年度
+======
+* テーマは『動学マクロ分析』
+    * 蓮見亮『動学マクロ分析へのいざない』
+    * 演習問題：[1](https://ywaki-econ.github.io/files/seminar/ProblemSet1.pdf), [2](https://ywaki-econ.github.io/files/seminar/ProblemSet2.pdf)
+
+
 2022年度
 ======
 * テーマは『中央銀行デジタル通貨』
