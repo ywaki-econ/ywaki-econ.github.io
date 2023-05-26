@@ -41,13 +41,16 @@ Honors and Awards
 
 Grants
 ======
-* 2019, Grants-in-Aid for Scientific Research (Kakenhi), Start-up.
-* 2019, The Australian Research Council Discovery Project Grant, with Professors Andrew McLennan, Dr. Christoph Mueller, Dr. Shino Takayama, and Dr. Satoshi Tanaka. 
+* 2022-, Co-Investigator, JSPS KAKENHI Grant-in-Aid for Scientific Research (A) Grant Number [22H00058](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22H00058/).
+* 2019-, Principal Investigator, JSPS KAKENHI Grant-in-Aid for Scientific Research Activity Start-up Grant Number [19K23199](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K23199/).
+* 2019-2022, Chief Investigator, The Australian Research Council Discovery Project Grant, "Banks, Endogenous Network Formations and Financial Crisis," with Professor Andrew McLennan, Dr. Christoph Mueller, Dr. Shino Takayama, and Dr. Satoshi Tanaka. 
 * 2012, UQ New Staff Research Start-up Fund.
 
 Teaching Experience
 ======
-* 2019-present, Instructor, Department of Economics, Aoyama Gakuin University, Tokyo, Japan. Taught Principle of Macroeconomics, Introduction to English in Economics, Economic Dynamics, Applied Macroeconomics, and Undergraduate seminar.
+* 2019-present, Instructor, Department of Economics, Aoyama Gakuin University, Tokyo, Japan. Taught the following courses:
+  * Undergraduate: Principle of Macroeconomics, Introduction to English in Economics, Economic Dynamics, Applied Macroeconomics, Macroeconomic Policy I&II, and Undergraduate seminar
+  * Graduate: Macroeconomics 
 * 2012-2018, Course Coordinator and Instructor, School of Economics, the University of Queensland, Brisbane, Queensland, Australia. Taught Advanced Macroeconomics (3rd year undergraduate, 2012-), Macroeconomics A (Honours, 2015-), Macroeconomics B (Honours, 2012-2014), and Computational Methods in Economics (Honours and Ph.D, 2017-2018).
 * 2007, Instructor, Department of Economics, the University of Minnesota, Minneapolis, Minnesota, The U.S. Taught Numerical Methods for Ph.D. Students in Economics.
 * 2004-2005, Teaching assistant, Graduate School of Economics, the University of Tokyo, Tokyo, Japan. Led recitation sections for graduate level Macroeconomics.
@@ -59,7 +62,7 @@ Research Experience
 
 Publications and Accepted Papers
 ======
-* [**"A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"**](https://www.sciencedirect.com/science/article/abs/pii/S0164070422000222), ***Journal of Macroeconomics***, Volume 72. 
+* ["A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"](https://www.sciencedirect.com/science/article/abs/pii/S0164070422000222), ***Journal of Macroeconomics***, Volume 72. 
 * ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](https://www.sciencedirect.com/science/article/pii/S1094202521000752?dgcid=author) with Ippei Fujiwara, accepted at ***Review of Economic Dynamics***. [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf).
   * This paper was previously titled "Private News and Monetary Policy" and was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
   * [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy)
@@ -71,7 +74,8 @@ Publications and Accepted Papers
 
 Working Papers
 ======
-
+* "Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"
+* "Commitment vs. Flexibility in New Keynesian Models"
 * ["Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
   * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
 * ["Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"](/files/Fukushima_Waki.pdf) with Kenichi Fukushima, 2011. 
@@ -83,7 +87,7 @@ Working Papers
 Professional Activities
 ======
 * **Referee for**
-  * American Economic Review: Insight; B.E. Journal of Macroeconomics; Economic Inquiry; Economic Journal; Economic Record; Economics Bulletin; European Economic Review; Japan and the World Economy; Japanese Economic Review; Journal of Economic Dynamics and Control; Journal of Economic Theory; Journal of Macroeconomics; Journal of Money, Credit, and Banking; Quantitative Economics; Review of Economic Dynamics; Review of Economic Studies. 
+  * American Economic Review: Insight; B.E. Journal of Macroeconomics; Economic Inquiry; Economic Journal; Economic Record; Economics Bulletin; European Economic Review; Japan and the World Economy; Japanese Economic Review; Journal of Economic Dynamics and Control; Journal of Economic Theory; Journal of Macroeconomics; Journal of Money, Credit, and Banking; Journal of Political Economy; Quantitative Economics; Review of Economic Dynamics; Review of Economic Studies. 
 
 * **Seminar and conference presentations**
   * 2022: The Econometric Society Australasian Meeting, The Asian Meeting of the Econometric Society in East and South-East Asia (scheduled).
