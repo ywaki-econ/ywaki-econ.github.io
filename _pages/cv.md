@@ -74,7 +74,7 @@ Publications and Accepted Papers
 
 Working Papers
 ======
-* ["Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"](/files/Waki_ZeroLiquidityHANK.pdf) ** NEW DRAFT **
+* ["Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"](/files/Waki_ZeroLiquidityHANK.pdf) **NEW DRAFT**
 * "Commitment vs. Flexibility in New Keynesian Models"
 * ["Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
   * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
