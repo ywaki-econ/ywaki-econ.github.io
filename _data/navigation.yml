@@ -5,7 +5,10 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+
+  - title: "Seminar"
+    url: /seminar/
+
   - title: "推薦状について"
     url: /referenceletter/
 
