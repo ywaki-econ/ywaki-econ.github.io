@@ -12,7 +12,7 @@ redirect_from:
 Contact Information
 ======
 * **Address**: Department of Economics, Aoyama Gakuin University, 4-4-25 Shibuya, Shibuya-ku, Tokyo 150-8366, JAPAN.
-* **e-mail**: ywakiecon[at]gmail.com    (Please replace [at] with @.)
+* **e-mail**: ywakiecon@gmail.com    
 
 Current Position
 ======
@@ -74,7 +74,7 @@ Publications and Accepted Papers
 
 Working Papers
 ======
-* ["Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"](/files/Waki_ZeroLiquidityHANK.pdf) **NEW DRAFT**
+* ["Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"](/files/Waki_ZeroLiquidityHANK.pdf) **NEW DRAFT (June 2023)**
 * "Commitment vs. Flexibility in New Keynesian Models"
 * ["Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
   * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
@@ -87,18 +87,19 @@ Working Papers
 Professional Activities
 ======
 * **Referee for**
-  * American Economic Review: Insight; B.E. Journal of Macroeconomics; Economic Inquiry; Economic Journal; Economic Record; Economics Bulletin; European Economic Review; Japan and the World Economy; Japanese Economic Review; Journal of Economic Dynamics and Control; Journal of Economic Theory; Journal of Macroeconomics; Journal of Money, Credit, and Banking; Journal of Political Economy; Quantitative Economics; Review of Economic Dynamics; Review of Economic Studies. 
+  * American Economic Review: Insight; B.E. Journal of Macroeconomics; Economic Inquiry; Economic Journal; Economic Record; Economics Bulletin; European Economic Review; Japan and the World Economy; Japanese Economic Review; Journal of Economic Dynamics and Control; Journal of Economic Theory; Journal of Macroeconomics; Journal of Money, Credit, and Banking; Journal of Political Economy; Quantitative Economics; Review of Economic Dynamics; Review of Economic Studies 
 
 * **Seminar and conference presentations**
-  * 2022: The Econometric Society Australasian Meeting, The Asian Meeting of the Econometric Society in East and South-East Asia (scheduled).
-  * 2021: Annual meeting of the Central Bank Research Association.
-  * 2019: DSGE conference; the University of Tokyo; Hitotsubashi University; Aoyama Gakuin University. 
-  * 2018: Pan-Pacific Conference in Economic Research.
-  * 2017: Hitotsubashi University; the CIGS Conference on Macroeconomic Theory and Policy 2017; the DSGE workshop; the 2017 Workshop of the Australian Macroeconomic Society.
+  * 2023: Waseda University
+  * 2022: The Econometric Society Australasian Meeting, The Asian Meeting of the Econometric Society in East and South-East Asia
+  * 2021: Annual meeting of the Central Bank Research Association
+  * 2019: DSGE conference; the University of Tokyo; Hitotsubashi University; Aoyama Gakuin University 
+  * 2018: Pan-Pacific Conference in Economic Research
+  * 2017: Hitotsubashi University; the CIGS Conference on Macroeconomic Theory and Policy 2017; the DSGE workshop; the 2017 Workshop of the Australian Macroeconomic Society
   * 2016: the University of Tokyo; the 2016 Workshop of the Australian Macroeconomic Society (discussant); the Econometric Society Asian Meeting, Kyoto; 17th Annual Macro Conference (discussant), Osaka.
-  * 2015: the University of Sydney; the University of Melbourne; the University of Adelaide; DSGE Workshop; Keio University; the University of Tokyo; Hitotsubashi University; Reserve Bank of Australia Quantitative Macroeconomics Workshop; The Second Annual CIGS End of Year Macroeconomics Conference.
-  * 2014: End of Year Macroeconomics Conference at CIGS; DSGE Workshop, Tokyo; 16th Annual Macro Conference; Hitotsubashi University; Econometric Society North American Meeting, Minneapolis; Federal Reserve Bank of Philadelphia; the CIGS Conference on Macroeconomic Theory and Policy; QLD Macroeconomics Workshop; Australian National University.
-  * 2013: University of Auckland Business School; Reserve Bank of New Zealand; Kyoto University ; the University of Tokyo; the University of Melbourne; Australasian Macroeconomics Workshop (discussant).
+  * 2015: the University of Sydney; the University of Melbourne; the University of Adelaide; DSGE Workshop; Keio University; the University of Tokyo; Hitotsubashi University; Reserve Bank of Australia Quantitative Macroeconomics Workshop; The Second Annual CIGS End of Year Macroeconomics Conference
+  * 2014: End of Year Macroeconomics Conference at CIGS; DSGE Workshop, Tokyo; 16th Annual Macro Conference; Hitotsubashi University; Econometric Society North American Meeting, Minneapolis; Federal Reserve Bank of Philadelphia; the CIGS Conference on Macroeconomic Theory and Policy; QLD Macroeconomics Workshop; Australian National University
+  * 2013: University of Auckland Business School; Reserve Bank of New Zealand; Kyoto University ; the University of Tokyo; the University of Melbourne; Australasian Macroeconomics Workshop (discussant)
   * 2012: Workshop on Macroeconomic Dynamics; The Econometric Society Australasian Meeting; SAET conference; Australasian Economic Theory Workshop.
-  * 2011: The Econometric Society Australasian Meeting; Workshop on Macroeconomic Dynamics;  Australian National University.
+  * 2011: The Econometric Society Australasian Meeting; Workshop on Macroeconomic Dynamics;  Australian National University
   * Prior to 2011: Econometric Society North American Meeting, Boston, 2009; Econometric Society World Congress, London, 2005.
