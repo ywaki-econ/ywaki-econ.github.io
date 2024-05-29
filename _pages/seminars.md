@@ -16,9 +16,9 @@ redirect_from:
 ## 今後開催予定
 
 * 発表者：Shinnosuke Kikuchi (MIT)
-  * 発表論文：TBA
-  * 日時：TBA
-  * 場所：TBA
+  * 発表論文：“Automation, Fragmentation, and Changes in Comparative Advantage”
+  * 日時：2024/5/31（金）, 10:30-12:00
+  * 場所：プレゼンテーション・ルーム（8号館6F経済合同研内）
 
 
 ## 開催済み 
