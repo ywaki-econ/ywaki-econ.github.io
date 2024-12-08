@@ -42,7 +42,7 @@ Honors and Awards
 Grants
 ======
 * 2022-, Co-Investigator, JSPS KAKENHI Grant-in-Aid for Scientific Research (A) Grant Number [22H00058](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22H00058/).
-* 2019-, Principal Investigator, JSPS KAKENHI Grant-in-Aid for Scientific Research Activity Start-up Grant Number [19K23199](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K23199/).
+* 2019-2024, Principal Investigator, JSPS KAKENHI Grant-in-Aid for Scientific Research Activity Start-up Grant Number [19K23199](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K23199/).
 * 2019-2022, Chief Investigator, The Australian Research Council Discovery Project Grant, "Banks, Endogenous Network Formations and Financial Crisis," with Professor Andrew McLennan, Dr. Christoph Mueller, Dr. Shino Takayama, and Dr. Satoshi Tanaka. 
 * 2012, UQ New Staff Research Start-up Fund.
 
@@ -51,8 +51,8 @@ Teaching Experience
 * 2019-present, Course Coordinator and Instructor, Department of Economics, Aoyama Gakuin University, Tokyo, Japan. Taught the following courses:
   * Undergraduate: Principle of Macroeconomics, Introduction to English in Economics, Economic Dynamics, Applied Macroeconomics, Macroeconomic Policy I&II, and Undergraduate seminars
   * Graduate: Macroeconomics 
-* 2012-2018, Course Coordinator and Instructor, School of Economics, the University of Queensland, Brisbane, Queensland, Australia. Taught Advanced Macroeconomics (3rd year undergraduate, 2012-), Macroeconomics A (Honours, 2015-), Macroeconomics B (Honours, 2012-2014), and Computational Methods in Economics (Honours and Ph.D, 2017-2018).
-* 2007, Instructor, Department of Economics, the University of Minnesota, Minneapolis, Minnesota, The U.S. Taught Numerical Methods for Ph.D. Students in Economics.
+* 2012-2018, Course Coordinator and Instructor, School of Economics, the University of Queensland, Brisbane, Queensland, Australia. Taught Advanced Macroeconomics (3rd year undergraduate), Macroeconomics A&B (Honours), and Computational Methods in Economics (Honours and Ph.D).
+* 2007, Instructor, Department of Economics, the University of Minnesota, Minneapolis, Minnesota, the U.S. Taught Numerical Methods for Ph.D. Students in Economics.
 * 2004-2005, Teaching assistant, Graduate School of Economics, the University of Tokyo, Tokyo, Japan. Led recitation sections for graduate level Macroeconomics.
 
 Research Experience
@@ -74,7 +74,8 @@ Publications and Accepted Papers
 
 Working Papers
 ======
-* ["Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"](/files/Waki_ZeroLiquidityHANK.pdf) **NEW DRAFT (June 2023)**
+* ["Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"](/files/Waki_ZeroLiquidityHANK.pdf) 
+* "Power of History-dependent Inflation Targeting Rule in a New Keynesian Model"
 * "Commitment vs. Flexibility in New Keynesian Models"
 * ["Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
   * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
