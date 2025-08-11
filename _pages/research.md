@@ -35,7 +35,8 @@ redirect_from:
 <hr>
 
 ## Working Papers
-* [**"Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"**](/files/Waki_ZeroLiquidityHANK.pdf) **NEW DRAFT**
+* [**"A Fast and Convergent Hybrid of Value Function Iteration and the Endogenous Grid Method for Discrete-Time Income Fluctuation Problems"**](/files/Waki_VFIPWL.pdf) **NEW DRAFT**, [replication files (zip)](/files/programs_VFIPWL.zip)
+* [**"Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"**](/files/Waki_ZeroLiquidityHANK.pdf)
 * "Commitment vs. Flexibility in New Keynesian Models," draft coming soon.
 * [**"Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"**](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
   * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
