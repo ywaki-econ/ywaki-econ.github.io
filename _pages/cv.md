@@ -62,7 +62,7 @@ Research Experience
 
 Publications and Accepted Papers
 ======
-* ["A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"](https://www.sciencedirect.com/science/article/abs/pii/S0164070422000222), ***Journal of Macroeconomics***, Volume 72. 
+* ["A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"](https://www.sciencedirect.com/science/article/abs/pii/S0164070422000222) ***Journal of Macroeconomics***, Volume 72. 
 * ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](https://www.sciencedirect.com/science/article/pii/S1094202521000752?dgcid=author) with Ippei Fujiwara, ***Review of Economic Dynamics***, Volume 46, Pages 280-301. [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf).
   * This paper was previously titled "Private News and Monetary Policy" and was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
   * [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy)
