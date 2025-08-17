@@ -74,7 +74,7 @@ Publications and Accepted Papers
 
 Working Papers
 ======
-* ["A Fast and Convergent Hybrid of Value Function Iteration and the Endogenous Grid Method for Discrete-Time Income Fluctuation Problems"](/files/Waki_VFIPWL.pdf), [replication files (zip)](/files/programs_VFIPWL.zip)
+* ["A Fast and Convergent Hybrid of Value Function Iteration and the Endogenous Grid Method for Discrete-Time Income Fluctuation Problems"](/files/Waki_VFIPWL.pdf), [replication files (zip)](/files/programs_VFIPWL.zip), submitted.
 * ["Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"](/files/Waki_ZeroLiquidityHANK.pdf) 
 * "Power of History-dependent Inflation Targeting Rule in a New Keynesian Model"
 * "Commitment vs. Flexibility in New Keynesian Models"

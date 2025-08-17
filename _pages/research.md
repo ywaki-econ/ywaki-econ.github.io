@@ -22,7 +22,7 @@ redirect_from:
 <hr>
 
 ## Working Papers
-* ["A Fast and Convergent Hybrid of Value Function Iteration and the Endogenous Grid Method for Discrete-Time Income Fluctuation Problems"](/files/Waki_VFIPWL.pdf), 2025, [replication files (zip)](/files/programs_VFIPWL.zip)
+* ["A Fast and Convergent Hybrid of Value Function Iteration and the Endogenous Grid Method for Discrete-Time Income Fluctuation Problems"](/files/Waki_VFIPWL.pdf), 2025, [replication files (zip)](/files/programs_VFIPWL.zip), submitted.
 * "Power of History-dependent Inflation Targeting Rule in a New Keynesian Model"
 * "Commitment vs. Flexibility in New Keynesian Models"
 * ["Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"](/files/Waki_ZeroLiquidityHANK.pdf), 2023.
