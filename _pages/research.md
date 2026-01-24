@@ -22,11 +22,11 @@ redirect_from:
 <hr>
 
 ## Working Papers
+* **NEW DRAFT** ["Generational War on Inflation? Optimal Inflation Rates for the Young and the Old,"](/files/Fujiwara_Hori_Waki_GenerationalWarOnInflation.pdf) with Ippei Fujiwara and Shunsuke Hori, 2025, submitted.  
 * ["A Fast and Convergent Hybrid of Value Function Iteration and the Endogenous Grid Method for Discrete-Time Income Fluctuation Problems"](/files/Waki_VFIPWL.pdf), 2025, [replication files (zip)](/files/programs_VFIPWL.zip), submitted.
 * "Power of History-dependent Inflation Targeting Rule in a New Keynesian Model"
 * "Commitment vs. Flexibility in New Keynesian Models"
 * ["Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"](/files/Waki_ZeroLiquidityHANK.pdf), 2023.
-* ["Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori, The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
 * ["Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"](/files/Fukushima_Waki.pdf) with Kenichi Fukushima, 2011, [Extension with hidden actions](/files/Fukushima_Waki_extension_hidden_actions.pdf)
 * ["On the Size of the Fiscal Multiplier When the Nominal Interest Rate is Zero,"](/files/Braun_Waki_2010.pdf) with R. Anton Braun, 2010, [Online Appendix](/files/Braun_Waki_2010_Appendix.pdf). 
 
