@@ -91,6 +91,7 @@ Professional Activities
   * American Economic Review: Insight; B.E. Journal of Macroeconomics; Economic Inquiry; Economic Journal; Economic Record; Economics Bulletin; European Economic Review; Japan and the World Economy; Japanese Economic Review; Journal of Economic Dynamics and Control; Journal of Economic Theory; Journal of Macroeconomics; Journal of Money, Credit, and Banking; Journal of Political Economy; Quantitative Economics; Review of Economic Dynamics; Review of Economic Studies 
 
 * **Seminar and conference presentations**
+  * 2025: Meiji University, Hitotsubashi University, The Econometric Society World Congress (Seoul), the 2025 Workshop of the Australian Macroeconomic Society (Monash University, Melbourne), OzMac Workshop (University of Queensland, Brisbane)
   * 2024: International Workshop on Fiscal and Monetary Policy Interactions (QUT, Brisbane),  The 26th Annual Macro Conference (discussant, Keio University, Tokyo), the 2024 Workshop of the Australian Macroeconomic Society (UWA, Perth)
   * 2023: Waseda University
   * 2022: The Econometric Society Australasian Meeting, The Asian Meeting of the Econometric Society in East and South-East Asia
