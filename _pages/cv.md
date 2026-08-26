@@ -74,9 +74,9 @@ Publications and Accepted Papers
 
 Working Papers
 ======
-* **NEW DRAFT** ["Generational War on Inflation? Optimal Inflation Rates for the Young and the Old,"](/files/Fujiwara_Hori_Waki_GenerationalWarOnInflation.pdf) with Ippei Fujiwara and Shunsuke Hori, submitted. 
+* **NEW DRAFT** ["Generational War on Inflation? Optimal Inflation Rates for the Young and the Old,"](/files/Fujiwara_Hori_Waki_GenerationalWarOnInflation.pdf) with Ippei Fujiwara and Shunsuke Hori, Revise and Resubmit at JEDC. 
+* ["Zero liquidity and concentrated redistribution in a New Keynesian model"](/files/Waki_ZeroLiquidity.pdf), submitted. (Previous version: ["Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"](/files/Waki_ZeroLiquidityHANK.pdf))
 * ["A Fast and Convergent Hybrid of Value Function Iteration and the Endogenous Grid Method for Discrete-Time Income Fluctuation Problems"](/files/Waki_VFIPWL.pdf), [replication files (zip)](/files/programs_VFIPWL.zip), submitted.
-* ["Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"](/files/Waki_ZeroLiquidityHANK.pdf) 
 * "Power of History-dependent Inflation Targeting Rule in a New Keynesian Model"
 * "Commitment vs. Flexibility in New Keynesian Models"   
 * ["Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"](/files/Fukushima_Waki.pdf) with Kenichi Fukushima, 2011. 
