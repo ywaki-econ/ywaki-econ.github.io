@@ -11,7 +11,7 @@ redirect_from:
 
 ## Publications and Accepted Papers
 * ["Generational War on Inflation? Optimal Inflation Rates for the Young and the Old,"](/files/Fujiwara_Hori_Waki_GenerationalWarOnInflation.pdf) with Ippei Fujiwara and Shunsuke Hori, accepted at *Journal of Economic Dynamics and Control*. 
-* ["A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"](https://www.sciencedirect.com/science/article/abs/pii/S0164070422000222) 2022, *Journal of Macroeconomics*, Volume 72. 
+* ["A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"](https://www.sciencedirect.com/science/article/abs/pii/S0164070422000222), 2022, *Journal of Macroeconomics*, Volume 72. 
 * ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](https://www.sciencedirect.com/science/article/pii/S1094202521000752?dgcid=author) with Ippei Fujiwara, 2022, *Review of Economic Dynamics*, Volume 46, Pages 280-301. [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf), [Replication codes](https://ideas.repec.org/c/red/ccodes/19-50.html), 
 [VOXEU article](https://voxeu.org/article/private-news-and-monetary-policy).
 * ["Fiscal forward guidance: A case for selective transparency,"](https://doi.org/10.1016/j.jmoneco.2019.10.007) with Ippei Fujiwara, 2020, *the Journal of Monetary Economics*, Volume 116, pages 236-248. [Online Appendix](/files/Fujiwara_Waki_FFG_Appendix.pdf)
