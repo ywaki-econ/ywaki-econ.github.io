@@ -62,6 +62,7 @@ Research Experience
 
 Publications and Accepted Papers
 ======
+* ["Generational War on Inflation? Optimal Inflation Rates for the Young and the Old,"](/files/Fujiwara_Hori_Waki_GenerationalWarOnInflation.pdf) with Ippei Fujiwara and Shunsuke Hori, 2026, accepted at ***Journal of Economic Dynamics and Control***. 
 * ["A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"](https://www.sciencedirect.com/science/article/abs/pii/S0164070422000222) ***Journal of Macroeconomics***, Volume 72. 
 * ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](https://www.sciencedirect.com/science/article/pii/S1094202521000752?dgcid=author) with Ippei Fujiwara, ***Review of Economic Dynamics***, Volume 46, Pages 280-301. [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf).
   * This paper was previously titled "Private News and Monetary Policy" and was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
@@ -74,9 +75,9 @@ Publications and Accepted Papers
 
 Working Papers
 ======
-* **NEW DRAFT** ["Generational War on Inflation? Optimal Inflation Rates for the Young and the Old,"](/files/Fujiwara_Hori_Waki_GenerationalWarOnInflation.pdf) with Ippei Fujiwara and Shunsuke Hori, Revise and Resubmit at JEDC. 
-* ["Zero liquidity and concentrated redistribution in a New Keynesian model"](/files/Waki_ZeroLiquidity.pdf), submitted. (Previous version: ["Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"](/files/Waki_ZeroLiquidityHANK.pdf))
-* ["A Fast and Convergent Hybrid of Value Function Iteration and the Endogenous Grid Method for Discrete-Time Income Fluctuation Problems"](/files/Waki_VFIPWL.pdf), [replication files (zip)](/files/programs_VFIPWL.zip), submitted.
+* ["Zero liquidity and concentrated redistribution in a New Keynesian model"](/files/Waki_ZeroLiquidity.pdf), submitted. 
+  * Previous version: ["Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"](/files/Waki_ZeroLiquidityHANK.pdf)
+* ["A Fast and Convergent Hybrid of Value Function Iteration and the Endogenous Grid Method for Discrete-Time Income Fluctuation Problems"](/files/Waki_VFIPWL.pdf), [replication files (zip)](/files/programs_VFIPWL.zip)
 * "Power of History-dependent Inflation Targeting Rule in a New Keynesian Model"
 * "Commitment vs. Flexibility in New Keynesian Models"   
 * ["Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"](/files/Fukushima_Waki.pdf) with Kenichi Fukushima, 2011. 
