@@ -41,10 +41,11 @@ redirect_from:
 | 2026/3/2（月）|	10:30-12:00	| 8号館6Fプレゼンテーションルーム |	高東也（大阪大学） |	"Countercyclical Elasticity of Substitution"|
 | 2026/3/17（火）| 11:00-12:30 | 8号館6Fプレゼンテーションルーム | 横手康二 (東京大学) | "Assortativeness Measures for Multi-Type Markets: Theory and Application" |
 
-## 2025年度
+## 2024年度
+
 | 日 | 時　| 場所 | 発表者 | タイトル | 
 | :--- |:--- |:--- |:--- |:--- |
-| 2024/6/26（水）| 11:30-13:00 |  8号館6Fプレゼンテーションルーム | 上田晃三 (早稲田大学) | "Some Evidence on Bank Transaction Data" |
+| 2024/6/26（水）| 11:30-13:00 | 8号館6Fプレゼンテーションルーム | 上田晃三 (早稲田大学) | "Some Evidence on Bank Transaction Data" |
 | 2024/7/10（水）| 10:30-12:00 | 8号館6Fプレゼンテーションルーム | 盛本圭一 (明治大学) | "Term structure and infinite debt rollover in general equilibrium" |
 | 2024/7/31（水）| 11:30〜13:00 | 8号館6Fプレゼンテーションルーム| 青柳潤(Hong Kong University of Science and Technology) | "Toxicity-Competitiveness Trade-off in Concentrated Liquidity Provision"|
 | 2024/7/31（水） | 15:00〜16:30 | 8号館6Fプレゼンテーションルーム | 堀敬一（関西学院大学） | "Testing the Signaling Hypothesis of Listing on the Premium Division: Evidence from the Tokyo Stock Exchange"|
