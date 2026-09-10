@@ -62,7 +62,7 @@ Research Experience
 
 Publications and Accepted Papers
 ======
-* ["Generational War on Inflation? Optimal Inflation Rates for the Young and the Old,"](/files/Fujiwara_Hori_Waki_GenerationalWarOnInflation.pdf) with Ippei Fujiwara and Shunsuke Hori, 2026, accepted at *Journal of Economic Dynamics and Control*. 
+* ["Generational War on Inflation? Optimal Inflation Rates for the Young and the Old,"](https://doi.org/10.1016/j.jedc.2026.105409) with Ippei Fujiwara and Shunsuke Hori, 2026, *Journal of Economic Dynamics and Control* (Open Access). 
 * ["A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences,"](https://www.sciencedirect.com/science/article/abs/pii/S0164070422000222), 2022, *Journal of Macroeconomics*, Volume 72. 
 * ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](https://www.sciencedirect.com/science/article/pii/S1094202521000752?dgcid=author) with Ippei Fujiwara, 2022, *Review of Economic Dynamics*, Volume 46, Pages 280-301. [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf).
   * This paper was previously titled "Private News and Monetary Policy" and was circulated as the Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Paper No.238. 
