@@ -25,7 +25,7 @@ redirect_from:
 ## Working Papers
 * ["Zero liquidity and concentrated redistribution in a New Keynesian model"](/files/Waki_ZeroLiquidity.pdf), submitted. 
   * Previous version: ["Excess sensitivity to targeted fiscal interventions in HANK models with zero liquidity"](/files/Waki_ZeroLiquidityHANK.pdf)
-* ["A Fast and Convergent Hybrid of Value Function Iteration and the Endogenous Grid Method for Discrete-Time Income Fluctuation Problems"](/files/Waki_VFIPWL.pdf), 2025, [replication files (zip)](/files/programs_VFIPWL.zip)
+* ["Analytical Policy Functions for Income Fluctuation Problems When the Value Function is Concave and Piecewise Linear"](/files/Waki_VFIPWL.pdf), 2026, [replication files (zip)](/files/programs_VFIPWL.zip)
 * "Power of History-dependent Inflation Targeting Rule in a New Keynesian Model"
 * "Commitment vs. Flexibility in New Keynesian Models"
 * ["Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"](/files/Fukushima_Waki.pdf) with Kenichi Fukushima, 2011, [Extension with hidden actions](/files/Fukushima_Waki_extension_hidden_actions.pdf)

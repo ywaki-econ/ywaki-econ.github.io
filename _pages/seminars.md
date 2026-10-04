@@ -20,7 +20,7 @@ redirect_from:
 | 6/17/2026（水）| 10:30-12:00 | 8号館6Fプレゼンテーションルーム | 小山達也（エモリ―大学）| "Militarized Sanctuary: How Incomplete Protection of Indigenous Peoples Entangle Them into Armed Conflict" |
 | 9/15/2026（火）|	10:00-11:30	| 8号館6Fプレゼンテーションルーム | 	及川　浩希	（早稲田大学） | 	"Economic Growth through Basic Research by Firms: A Science Linkage Approach" (joint with Makoto Nirei and Masahiro Oroku) |
 | 9/16/2026	（水）|	10:30-12:00	| 8号館6Fプレゼンテーションルーム	 | 高山　直樹	（一橋大学）|	"Fertility, Childlessness, and Education in Japan: New Population-Wide Evidence and a Structural Analysis" (with Yuta Takahashi and Takashi Unayama) |
-| 11/4/2026（水）	| 11:000-12:30	| 8号館6Fプレゼンテーションルーム | 	廣瀬　康生（慶應義塾大学） | 未定 |  
+| 11/4/2026（水）	| 11:00-12:30	| 8号館6Fプレゼンテーションルーム | 	廣瀬　康生（慶應義塾大学） | 未定 |  
 |11/18/2026（水） |	10:30-12:00	| 8号館6Fプレゼンテーションルーム | 	石出　旭（東京大学）| 未定　|	
 
 
