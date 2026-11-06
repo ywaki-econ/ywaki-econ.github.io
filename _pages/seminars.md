@@ -20,8 +20,13 @@ redirect_from:
 | 6/17/2026（水）| 10:30-12:00 | 8号館6Fプレゼンテーションルーム | 小山達也（エモリ―大学）| "Militarized Sanctuary: How Incomplete Protection of Indigenous Peoples Entangle Them into Armed Conflict" |
 | 9/15/2026（火）|	10:00-11:30	| 8号館6Fプレゼンテーションルーム | 	及川　浩希	（早稲田大学） | 	"Economic Growth through Basic Research by Firms: A Science Linkage Approach" (joint with Makoto Nirei and Masahiro Oroku) |
 | 9/16/2026	（水）|	10:30-12:00	| 8号館6Fプレゼンテーションルーム	 | 高山　直樹	（一橋大学）|	"Fertility, Childlessness, and Education in Japan: New Population-Wide Evidence and a Structural Analysis" (with Yuta Takahashi and Takashi Unayama) |
-| 11/4/2026（水）	| 11:00-12:30	| 8号館6Fプレゼンテーションルーム | 	廣瀬　康生（慶應義塾大学） | 未定 |  
-|11/18/2026（水） |	10:30-12:00	| 8号館6Fプレゼンテーションルーム | 	石出　旭（東京大学）| 未定　|	
+| 11/4/2026（水）	| 11:00-12:30	| 8号館6Fプレゼンテーションルーム | 	廣瀬　康生（慶應義塾大学） | "Behavioral Expectations under Indeterminacy: An Empirical Evaluation" |  
+|11/18/2026（水） |	10:30-12:00	| 8号館6Fプレゼンテーションルーム | 	石出　旭（東京大学）| "Allocative Inefficiency during a Sudden Stop"　|	
+|12/1/2026（火） |	10:00-11:30	| 8号館6Fプレゼンテーションルーム | 	粟屋　祐（東京大学）| "Informational Content of Auction Prices"　|	
+|12/18/2026（金） |	14:00-17:20	| 8号館6Fプレゼンテーションルーム | 	鈴木　雅貴（一橋大学）| TBA　|
+| |	| 8号館6Fプレゼンテーションルーム | 荒戸　寛樹（東京都立大学）| TBA　|	
+| |		| 8号館6Fプレゼンテーションルーム | 	堀　健夫（東京科学大学）| TBA　|	
+| |		| 8号館6Fプレゼンテーションルーム | 	齊藤　誠（國學院大學）| "On long-run expectations of the yen against the U.S. dollar: Sudden depreciation of fundamentals and gradual disappearance of rational bubbles"　|	
 
 
 ## 2025年度
