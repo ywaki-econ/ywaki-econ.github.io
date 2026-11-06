@@ -24,9 +24,9 @@ redirect_from:
 |11/18/2026（水） |	10:30-12:00	| 8号館6Fプレゼンテーションルーム | 	石出　旭（東京大学）| "Allocative Inefficiency during a Sudden Stop"　|	
 |12/1/2026（火） |	10:00-11:30	| 8号館6Fプレゼンテーションルーム | 	粟屋　祐（東京大学）| "Informational Content of Auction Prices"　|	
 |12/18/2026（金） |	14:00-14:50	| 8号館6Fプレゼンテーションルーム | 	鈴木　雅貴（一橋大学）| TBA　|
-| |	| 14:50-15:40 | 荒戸　寛樹（東京都立大学）| TBA　|	
-| |		| 15:40-16:30 | 	堀　健夫（東京科学大学）| TBA　|	
-| |		| 16:30-17:20 | 	齊藤　誠（國學院大學）| "On long-run expectations of the yen against the U.S. dollar: Sudden depreciation of fundamentals and gradual disappearance of rational bubbles"　|	
+| | 14:50-15:40 | |	荒戸　寛樹（東京都立大学）| TBA　|	
+| | 15:40-16:30 | |		堀　健夫（東京科学大学）| TBA　|	
+| | 16:30-17:20 | |		齊藤　誠（國學院大學）| "On long-run expectations of the yen against the U.S. dollar: Sudden depreciation of fundamentals and gradual disappearance of rational bubbles"　|	
 
 
 ## 2025年度
