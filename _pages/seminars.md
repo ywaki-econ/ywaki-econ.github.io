@@ -20,9 +20,11 @@ redirect_from:
 | 6/17/2026（水）| 10:30-12:00 | 8号館6Fプレゼンテーションルーム | 小山達也（エモリ―大学）| "Militarized Sanctuary: How Incomplete Protection of Indigenous Peoples Entangle Them into Armed Conflict" |
 | 9/15/2026（火）|	10:00-11:30	| 8号館6Fプレゼンテーションルーム | 	及川　浩希	（早稲田大学） | 	"Economic Growth through Basic Research by Firms: A Science Linkage Approach" (joint with Makoto Nirei and Masahiro Oroku) |
 | 9/16/2026	（水）|	10:30-12:00	| 8号館6Fプレゼンテーションルーム	 | 高山　直樹	（一橋大学）|	"Fertility, Childlessness, and Education in Japan: New Population-Wide Evidence and a Structural Analysis" (with Yuta Takahashi and Takashi Unayama) |
+| 10/21/2026（水）	| 13:30-15:00	| 8号館6Fプレゼンテーションルーム | 	David Zuchowski（University of Valencia, Tohoku University） | "Let’s Connect: Mobile Internet and Fertility Behavior" |  
 | 11/4/2026（水）	| 11:00-12:30	| 8号館6Fプレゼンテーションルーム | 	廣瀬　康生（慶應義塾大学） | "Behavioral Expectations under Indeterminacy: An Empirical Evaluation" |  
 |11/18/2026（水） |	10:30-12:00	| 8号館6Fプレゼンテーションルーム | 	石出　旭（東京大学）| "Allocative Inefficiency during a Sudden Stop"　|	
 |12/1/2026（火） |	10:00-11:30	| 8号館6Fプレゼンテーションルーム | 	粟屋　祐（東京大学）| "Informational Content of Auction Prices"　|	
+|12/16/2026（水） |	10:30-12:00	| 8号館6Fプレゼンテーションルーム | 	Yoshiki ANDO（Singapore Management University）| TBA　|	
 |12/18/2026（金） |	14:00-14:50	| 8号館6Fプレゼンテーションルーム | 	鈴木　雅貴（一橋大学）| TBA　|
 | | 14:50-15:40 | |	荒戸　寛樹（東京都立大学）| TBA　|	
 | | 15:40-16:30 | |		堀　健夫（東京科学大学）| TBA　|	
